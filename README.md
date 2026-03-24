@@ -57,11 +57,11 @@
 
 ## 🖥 Скриншоты
 
-- `screenshots/clients_list.png` — список клиентов
-- `screenshots/order_form.png` — форма заказа
-- `screenshots/interaction_form.png` — форма обращения
-- `screenshots/sales_report.png` — отчет по продажам
-- `screenshots/client_report.png` — отчет по клиентам
+![список клиентов](screenshots/clients_list.png)
+![форма заказа](screenshots/order_form.png)
+![форма обращения](screenshots/interaction_form.png)
+![отчет по продажам](screenshots/client_report.png)
+![отчет по клиентам](screenshots/sales_report.png)
 
 ---
 
